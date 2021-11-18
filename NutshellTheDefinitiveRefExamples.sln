@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutshellTheDefinitiveRefExamples", "NutshellTheDefinitiveRefExamples\NutshellTheDefinitiveRefExamples.csproj", "{16818AFD-CF49-4B85-9321-3236ED9F4FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16818AFD-CF49-4B85-9321-3236ED9F4FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16818AFD-CF49-4B85-9321-3236ED9F4FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16818AFD-CF49-4B85-9321-3236ED9F4FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16818AFD-CF49-4B85-9321-3236ED9F4FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BA13BC1-CC82-467E-9FD1-6E7FF49C7BBD}
+	EndGlobalSection
+EndGlobal
